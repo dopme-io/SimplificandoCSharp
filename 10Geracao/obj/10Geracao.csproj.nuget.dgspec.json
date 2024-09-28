@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dopme/RiderProjects/SimplificandoCSharp/10Geracao/10Geracao.csproj": {}
+  },
+  "projects": {
+    "/home/dopme/RiderProjects/SimplificandoCSharp/10Geracao/10Geracao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dopme/RiderProjects/SimplificandoCSharp/10Geracao/10Geracao.csproj",
+        "projectName": "10Geracao",
+        "projectPath": "/home/dopme/RiderProjects/SimplificandoCSharp/10Geracao/10Geracao.csproj",
+        "packagesPath": "/home/dopme/.nuget/packages/",
+        "outputPath": "/home/dopme/RiderProjects/SimplificandoCSharp/10Geracao/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dopme/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/dopme/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
