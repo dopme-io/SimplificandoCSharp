@@ -1,4 +1,4 @@
-![csharp-solid](https://github.com/user-attachments/assets/177ade66-2239-4071-98cd-527515b51fd6)
+![image](https://github.com/user-attachments/assets/b1f92295-8bcb-4046-b1ba-18d8d974b732)
 
 Bem-vindo ao repositório do canal dopme.io! Aqui, exploramos como simplificar a complexidade do desenvolvimento de software utilizando a linguagem C# e os Princípios SOLID de design.
 
