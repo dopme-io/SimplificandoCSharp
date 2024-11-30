@@ -47,9 +47,6 @@ NomeCompletoISP nomeCompletoIsp = new NomeCompletoISP("Daniloe", "O. Pinheiro", 
 
 ObterNomeCompletoISP(usuarioIsp, nomeCompletoIsp);
 
-
-
-
 Console.WriteLine("\n-- DIP --");
 
 IValidarUsuarioDIP validarUsuarioDip = new UsuarioDIP();
